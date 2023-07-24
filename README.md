@@ -6,8 +6,8 @@
 - 🌱 Estudo front-end, atualmente me aventurando em Angular JS;
 - 🌊 Apaixonado pelo mar e por toda a natureza divina;
 
-#### Você também pode me encontrar: 
-<a href="https://www.linkedin.com/paulohmeireles">
+### Você também pode me encontrar: 
+<a href="https://www.linkedin.com/paulohmeireles/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 <a href="https://www.behance.com/paulohmeireles">
